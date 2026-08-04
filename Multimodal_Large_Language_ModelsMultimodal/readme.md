@@ -1,0 +1,6 @@
+Multimodal large language models (LLMs) integrate and process various types of data such as text, images, audio and video to enhance understanding and generate responses. For example, an MLLM can interpret a text description, analyze a corresponding image and generate a response that encompasses both forms of input. This capability allows them to perform tasks that require understanding of various types of data, making them more versatile and powerful.
+
+Data Integration: MLLMs use algorithms to combine data from multiple sources, ensuring that the information from each modality is accurately represented and integrated.
+Feature Extraction: The model extracts relevant features from each type of input. For example, it might identify objects and their relationships in an image while understanding the context and meaning of accompanying text.
+Joint Representation: By creating a joint representation of the multimodal data, the model can make inferences and generate outputs that consider all available information.
+Cross-Modal Attention: Techniques like cross-modal attention help the model focus on relevant parts of the data from different modalities, improving its ability to generate coherent and contextually appropriate responses.
